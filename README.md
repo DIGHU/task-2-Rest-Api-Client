@@ -1,16 +1,16 @@
-# task-2-Rest-Api-Client
+#  Task 2 – REST API Client
 
-# COMPANY: CODTECH IT SOLUTIONS
+*Company*: CODTECH IT SOLUTIONS
 
-# NAME:Dirghayush Umakant Sogale
+*Name*: Dirghayush Umakant Sogale
 
-# INTERN ID: :CITS0D178
+*Intern ID*: CITS0D178
 
-# DOMAIN: CORE JAVA /  REST API CLIENT
+*Domain*: Core Java / REST API Client
 
-# DURATION: 4 WEEKS
+*Duration*: 4 Weeks
 
-# MENTOR: NEELA SANTOSH
+*Mentor*: Neela Santosh
 
 # DESCRIPTION OF TASK:
 
