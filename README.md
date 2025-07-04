@@ -1,4 +1,4 @@
-#  Task 2 – REST API Client
+ Task 2 – REST API Client
 
 *Company*: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@
 
 *Mentor*: Neela Santosh
 
-# DESCRIPTION OF TASK:
+* DESCRIPTION OF TASK:
 
 The objective of this internship task was to build a simple yet functional Java-based REST API client application that consumes data from a public API and presents it in a structured format. For this, I developed a weather information client using the Open-Meteo Weather API.
 
