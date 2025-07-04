@@ -12,7 +12,6 @@
 
 # MENTOR: NEELA SANTOSH
 
-
 # DESCRIPTION OF TASK:
 
 The objective of this internship task was to build a simple yet functional Java-based REST API client application that consumes data from a public API and presents it in a structured format. For this, I developed a weather information client using the Open-Meteo Weather API.
@@ -32,4 +31,7 @@ From this task, I learned how to:
 The development environment used for this project was Visual Studio Code, and the project included two main files: a Java source file (`WeatherApiClient.java`) and a JSON parsing library placed in a `lib/` folder.
 
 This task helped strengthen my understanding of core Java concepts, web integration, and real-time data processing, which are essential in many modern applications. It also demonstrated how Java can be used outside of backend development, especially in API-driven tools and automation scripts.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/cdf91db1-5ad2-4984-8cb8-4999150206ef)
 
